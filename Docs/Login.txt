@@ -1,0 +1,8 @@
+Username assign158
+
+Password ieb9Ahv7
+
+
+Host edward2ftp.solent.ac.uk
+
+Port 990
